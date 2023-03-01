@@ -1,0 +1,47 @@
+body {
+   background-color: rgb(22, 22, 22);
+   margin: 0px;
+
+}
+
+h1 {
+   text-align: center;
+   display: block;
+   background-color: rgb(59, 59, 59);
+   color: white;
+   padding: 10px;
+   margin: 0px;
+}
+
+p {
+   text-align: center;
+   display: block;
+   padding: 30px;
+   width: 40%;
+   background-color:rgb(93, 95, 102) ;
+   margin-left: auto;
+   margin-right: auto;
+   color: white;
+   border-radius: 10px;
+}
+
+a {
+   padding: 10px;
+   background-color:rgb(93, 95, 102);
+   width:40px ;
+   color: white;
+   margin-right: auto;
+   margin-left: auto;
+   display: block;
+   text-align: center;
+   text-decoration: none;
+   box-shadow:2px 4px 8px rgb(80, 78, 78);
+   border-radius: 10px;
+
+}
+
+a:hover {
+   color:rgb(255, 246, 246);
+   background-color:rgb(209, 198, 198);
+   transition: 1s linear; 
+}
